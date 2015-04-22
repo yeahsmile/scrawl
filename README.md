@@ -1,3 +1,0 @@
-# scrawl
-scrawl-scrapy
-scrapy
